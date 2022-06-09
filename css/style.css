@@ -1,0 +1,385 @@
+body{
+    width: 1240px;
+    margin: 0 auto;
+    font-family: 'Jura';
+}
+.top{
+    display: flex;  
+}
+.long-block{
+    display: flex;
+   align-items : center;
+   margin-left: 300px;
+}
+.long-block a{
+    margin-left: 200px;
+    text-decoration: none;
+    color: #006AA7;
+}
+.long-block a:first-child{
+    margin: 0;
+}
+.long-block a:hover{
+    text-decoration: underline;
+}
+.h_text1{
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 53px;
+    text-align: left;
+}
+.lower-block{
+    display: flex;
+}
+.p_text1{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 50px;
+}
+.link_button1{
+    width: 250px;
+    height: 50px;
+    background-color: #006AA7;
+    padding: 20px;
+    border-top-left-radius: 45px;
+    border-bottom-right-radius: 45px;
+    text-decoration: none;
+    color: white;
+}
+.link_button1:hover{
+    background-color: #0178BD;
+}
+.values{
+    width: 1100px;
+    height: 299px;
+    display: flex;
+    align-items: center;
+    background-color: #006AA7;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.values_info{
+    color: white;
+}
+.specifics{
+    display: flex;
+    justify-content: space-between;
+}
+h2{
+    text-align: center;
+}
+.item p{
+    border-top: 1px solid rgb(255, 0, 0);
+    border-bottom: 1px solid rgb(255, 0, 0);
+    text-align: center;
+    padding: 10px;
+}
+.item:hover{
+    background-color: #006AA7;
+    border-radius: 10px;
+    color: white;
+}
+.specifics_info{
+    display: flex;
+    padding: 10px;
+}
+.info_one{
+    background-color: rgb(253, 186, 0);
+    border-radius: 10px;
+    margin: 20px;
+    color: white;
+    padding: 10px;
+}
+.info_one h4{
+    text-align: center;
+}
+.content_one{
+    display: flex;
+    align-items: center;
+    background-color: #F5F5F5;
+    border-radius: 10px;
+    padding: 10px;
+}
+.traditions_one{
+    display: flex;
+}
+.traditions_two{
+    display: flex;
+    padding: 20px;
+}
+.traditions_one div{
+    width: 250px;
+    height: 250px;
+    background-color: #0178BD;
+    border-radius: 10px;
+    margin: 20px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.traditions_one div p{
+    font-size: 16px;
+    line-height: 19px;
+    color: white;
+}
+.traditions_one div img{
+    padding: 10px;
+}
+.traditions_one div:hover{
+    background-color: #006AA7;
+}
+.traditions_two div{
+    width: 250px;
+    height: 250px;
+    background-color: #0178BD;
+    border-radius: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+.traditions_two div p{
+    font-size: 16px;
+    line-height: 19px;
+    color: white;
+}
+.traditions_two div img{
+    padding: 10px;
+}
+.traditions_two div:hover{
+    background-color: #006AA7;
+}
+.traditions_img{
+    display: flex;
+    justify-content: space-around;
+}
+.modern_kozaky{
+    display: flex;
+    margin: 0 auto;
+    background-color: #F5F5F5;
+    border-radius: 10px;
+    align-items: center;
+    font-size: 24px;
+}
+.modern_kozaky div img{
+    margin: 10px;
+}
+body{
+    width: 1240px;
+    margin: 0 auto;
+    font-family: 'Jura';
+}
+.top{
+    display: flex;  
+}
+.long-block{
+    display: flex;
+   align-items : center;
+   margin-left: 300px;
+}
+.long-block a{
+    margin-left: 200px;
+    text-decoration: none;
+    color: #006AA7;
+}
+.long-block a:first-child{
+    margin: 0;
+}
+.h_text1{
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 53px;
+    text-align: left;
+}
+.lower-block{
+    display: flex;
+}
+.p_text1{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 50px;
+}
+.link_button1{
+    width: 250px;
+    height: 50px;
+    background-color: #006AA7;
+    padding: 20px;
+    border-top-left-radius: 45px;
+    border-bottom-right-radius: 45px;
+    text-decoration: none;
+    color: white;
+}
+.link_button1:hover{
+    background-color: #0178BD;
+}
+.values{
+    width: 1100px;
+    height: 299px;
+    display: flex;
+    align-items: center;
+    background-color: #006AA7;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.values_info{
+    color: white;
+}
+.specifics{
+    display: flex;
+    justify-content: space-between;
+}
+h2{
+    text-align: center;
+}
+.item p{
+    border-top: 1px solid rgb(255, 0, 0);
+    border-bottom: 1px solid rgb(255, 0, 0);
+    text-align: center;
+    padding: 10px;
+}
+.item:hover{
+    background-color: #006AA7;
+    border-radius: 10px;
+    color: white;
+}
+.specifics_info{
+    display: flex;
+    padding: 10px;
+}
+.info_one{
+    background-color: rgb(253, 186, 0);
+    border-radius: 10px;
+    margin: 20px;
+    color: white;
+    padding: 10px;
+}
+.info_one h4{
+    text-align: center;
+}
+.content_one{
+    display: flex;
+    align-items: center;
+    background-color: #F5F5F5;
+    border-radius: 10px;
+    padding: 10px;
+}
+.traditions_one{
+    display: flex;
+}
+.traditions_two{
+    display: flex;
+    padding: 20px;
+}
+.traditions_one div{
+    width: 250px;
+    height: 250px;
+    background-color: #0178BD;
+    border-radius: 10px;
+    margin: 20px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.traditions_one div p{
+    font-size: 16px;
+    line-height: 19px;
+    color: white;
+}
+.traditions_one div img{
+    padding: 10px;
+}
+.traditions_one_block:hover{
+    background-color: #006AA7;
+}
+.traditions_two div{
+    width: 250px;
+    height: 250px;
+    background-color: #0178BD;
+    border-radius: 10px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.traditions_two div p{
+    font-size: 16px;
+    line-height: 19px;
+    color: white;
+}
+.traditions_two div img{
+    padding: 10px;
+}
+.traditions_img{
+    display: flex;
+    justify-content: space-around;
+}
+.modern_kozaky{
+    display: flex;
+    margin: 0 auto;
+    background-color: #F5F5F5;
+    border-radius: 10px;
+    align-items: center;
+    font-size: 24px;
+    padding: 20px;
+}
+.modern_kozaky_img{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+.modern_kozaky1{
+    display: flex;
+    margin: 0 auto;
+    background-color: #006AA7;
+    border-radius: 10px;
+    align-items: center;
+    font-size: 24px;
+    padding: 20px;
+}
+.modern_kozaky1 p{
+    color: white;
+    text-align: center;
+}
+.modern_kozaky_img1{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+.history_info{
+    width: 1040px;
+    height: 200px;
+    display: flex;
+    border-radius: 10px;
+    font-weight: 800;
+    margin: 0 auto;
+}
+.history_info_block{
+    width: 560px;
+    background-color: rgb(253, 186, 0);
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 20px;
+}
+footer{
+    height: 100px;
+    text-align: center;
+    background-color: #006AA7;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
+.history_img{
+    width: 1040px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.history_img img{
+    width: 510px;
+    margin-left: 10px;
+}
